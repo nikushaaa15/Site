@@ -60,8 +60,9 @@ article{
 }
 @media only screen and (max-width:800px)
 {
-	nav, main, aside,myvideo{
+	nav, main, aside,myvideo,video,iframe{
 		width: 100%;
+
 	}
 }
 /*Навігація*/
